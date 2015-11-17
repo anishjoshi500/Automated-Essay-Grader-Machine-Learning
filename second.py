@@ -7,6 +7,7 @@ Created on Sat Oct 03 19:53:11 2015
 from __future__ import division
 #from nltk.corpus import stopwords 
 from textstat.textstat import textstat
+from sklearn.feature_extraction.text import CountVectorizer
 """from openpyxl import load_workbook
 ws=load_workbook("MyTester.xlsx")
 print(ws.get_sheet_names())"""
