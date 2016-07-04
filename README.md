@@ -1,4 +1,5 @@
-## Develop an automated scoring algorithm for student-written essays.
+## Automated Essay Grader using Machine Learning - kaggle project
+###Develop an automated scoring algorithm for student-written essays.
 
 The William and Flora Hewlett Foundation (Hewlett) is sponsoring the Automated Student Assessment Prize (ASAP).  Hewlett is appealing to data scientists and machine learning specialists to help solve an important social problem.  We need fast, effective and affordable solutions for automated grading of student-written essays.
 
